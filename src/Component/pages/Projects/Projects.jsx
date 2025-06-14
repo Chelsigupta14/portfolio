@@ -7,7 +7,7 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'A personal portfolio built using React.js to showcase my resume, skills, and work.',
-    link: 'https://github.com/Chelsigupta14/portfolio',
+    link: 'https://portfolio-dusky-iota-98.vercel.app/',
   },
   {
     title: 'Kamgar Sahayak Platform',
