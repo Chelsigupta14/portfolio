@@ -9,11 +9,16 @@ function Hero() {
       <div className="hero-content">
         <img
           src={chelsiavatar}
-                    alt="chelsiAvatar"
+          alt="Chelsi Avatar"
           className="avatar"
         />
         <h1>Hi, I'm Chelsi Gupta</h1>
-        <p>Aspiring Software Engineer | FrontEnd Enthusiast</p>
+        <p>
+          Aspiring Software Engineer | Frontend Developer | Data Science Intern @ Celebal Technologies
+        </p>
+        <p>
+          Seeking roles in Software Development, Frontend Engineering & Tech-Driven Teams
+        </p>
         <a href="#contact" className="hero-btn">Contact Me</a>
       </div>
     </header>
