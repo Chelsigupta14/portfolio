@@ -14,11 +14,7 @@ const projects = [
     description: 'A React-based job portal for unorganized sector workers to find local jobs easily.',
     link: 'https://kaamgharsahayak.web.app/',
   },
-  {
-    title: 'Instagram Auto-Reply Tool',
-    description: 'A full-stack automation tool that replies to comments on reels via DMs. Built using Python and JS.',
-    link: 'https://github.com/chelsi-gupta/insta-auto-reply',
-  }
+ 
 ];
 
 const Projects = () => {
