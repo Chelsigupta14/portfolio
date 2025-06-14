@@ -47,7 +47,7 @@ const Projects = () => {
               rel="noopener noreferrer"
               className="view-project"
             >
-              View on GitHub
+              View Project
             </a>
           </motion.div>
         ))}
