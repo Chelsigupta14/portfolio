@@ -7,12 +7,12 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'A personal portfolio built using React.js to showcase my resume, skills, and work.',
-    link: 'https://github.com/chelsi-gupta/portfolio',
+    link: 'https://github.com/Chelsigupta14/portfolio',
   },
   {
     title: 'Kamgar Sahayak Platform',
     description: 'A React-based job portal for unorganized sector workers to find local jobs easily.',
-    link: 'https://github.com/chelsi-gupta/kamgar-platform',
+    link: 'https://kaamgharsahayak.web.app/',
   },
   {
     title: 'Instagram Auto-Reply Tool',

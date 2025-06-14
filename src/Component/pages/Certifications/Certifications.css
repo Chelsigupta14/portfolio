@@ -1,6 +1,6 @@
 .certifications-section {
   padding: 60px 20px;
-  background-color: #f2f0d8;
+  background-color: #fefdee;
   text-align: center;
   margin-bottom: 80px;
 }
@@ -58,4 +58,29 @@
 .certification-card p strong {
   color: #0077cc;
   font-weight: 600;
+}
+.cert-link {
+  color: #0077cc;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.cert-link:hover {
+  color: #005fa3;
+  text-decoration: underline;
+}
+.view-cert-button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #0077cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.view-cert-button:hover {
+  background-color: #005fa3;
 }

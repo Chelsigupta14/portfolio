@@ -18,12 +18,18 @@ function About() {
         <div className="about-text">
           <h2>About Me</h2>
           <p>
-            I am <strong>Chelsi Gupta</strong>, an aspiring <strong>Software Engineer</strong> passionate about crafting engaging and responsive web applications. 
-            With skills in <strong>React.js, Python, Machine Learning, and SQL</strong>, I strive to build impactful and scalable solutions.
+            I’m a passionate and motivated tech enthusiast actively looking for opportunities in the 
+            <strong> Software Development</strong>, <strong> Frontend Development</strong>, or 
+            <strong> Software Engineering</strong> domains. I recently completed an internship at 
+            <strong> Celebal Technologies</strong>, where I worked in the <strong>Data Science</strong> domain and 
+            gained hands-on experience with real-world data and analytical tools.
           </p>
           <p>
-            I recently completed an internship at <strong>Celebal Technologies</strong>, where I honed my skills in <strong>data analysis and frontend development</strong>. 
-            I love turning ideas into interactive experiences and am eager to contribute to innovative tech-driven teams.
+            I have a basic understanding of <strong>C++</strong> and <strong>Python</strong>, and I’m continuously 
+            working to strengthen my skills through personal projects, online courses, and certifications. My primary 
+            interest lies in web development and creating interactive, user-friendly digital experiences. I'm eager to 
+            contribute to dynamic teams, grow in a challenging environment, and apply my learning to build impactful 
+            solutions.
           </p>
         </div>
       </div>
