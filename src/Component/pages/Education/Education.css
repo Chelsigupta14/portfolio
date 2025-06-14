@@ -1,0 +1,43 @@
+/* src/Component/pages/Education/Education.css */
+
+.education-section {
+  padding: 60px 20px;
+  background-color: #f0f8ff;
+  text-align: center;
+}
+
+.education-title {
+  font-size: 36px;
+  color: #2c3e50;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.education-container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+}
+
+.education-card {
+  background-color: #ffffff;
+  padding: 20px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 600px;
+  text-align: left;
+}
+
+.education-card h3 {
+  font-size: 22px;
+  color: #333333;
+  margin-bottom: 8px;
+}
+
+.education-card p {
+  font-size: 16px;
+  color: #555555;
+  margin: 4px 0;
+}
