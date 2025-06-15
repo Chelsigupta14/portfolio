@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import './Navbar.css';
 import { Link } from 'react-scroll';
-import { FaBars, FaTimes } from 'react-icons/fa'; // icons for menu
+import { FaBars, FaTimes } from 'react-icons/fa';
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,7 +12,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <div className="logo">Chelsi</div>
+      <div className="logo"></div>
 
       <div className={`nav-links ${isOpen ? 'open' : ''}`}>
         <Link to="about" smooth={true} duration={500} onClick={closeMenu}>About</Link>

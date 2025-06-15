@@ -1,6 +1,8 @@
 // src/Hero.js
 import React from 'react';
 import './Hero.css';
+import { Link } from 'react-scroll';
+
 import chelsiavatar from '../../../Avatar/avatar.jpg';
 
 function Hero() {
@@ -8,6 +10,7 @@ function Hero() {
     <header className="hero">
       <div className="hero-content">
         <img
+        loading='lazy'
           src={chelsiavatar}
           alt="Chelsi Avatar"
           className="avatar"
@@ -19,7 +22,15 @@ function Hero() {
         <p>
           Seeking roles in Software Development, Frontend Engineering & Tech-Driven Teams
         </p>
-        <a href="#contact" className="hero-btn">Contact Me</a>
+        <Link
+  to="about"
+  smooth={true}
+  duration={500}
+  className="hero-btn"
+>
+  Let's Connect
+</Link>
+
       </div>
     </header>
   );

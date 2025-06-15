@@ -4,9 +4,10 @@ import './Footer.css';
 
 function Footer() {
   return (
-    <footer className="footer">
-      <p>© 2025 Chelsi Gupta. All rights reserved.</p>
-    </footer>
+    <footer style={{ textAlign: "center", padding: "20px", background: "#f0f0f0" }}>
+  © {new Date().getFullYear()} Chelsi Gupta • All rights reserved.
+</footer>
+
   );
 }
 
